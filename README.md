@@ -1,4 +1,4 @@
-# coincommunity
+# Coin community
 front-end
 React.js , Hooks, Redux
 
