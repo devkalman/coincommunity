@@ -1,5 +1,6 @@
 # coincommunity
-frontend_react_hook
+front-end
+React.js , Hooks, Redux
 
 react로 개발한 소스중 일부입니다. 참고용으로 봐주시면 감사하겠습니다.
 
